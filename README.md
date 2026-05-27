@@ -11,6 +11,11 @@
 
 ## 📌 Project Overview
 
+
+**Figure 1:** Final optimized fleet routing network across São Paulo using Greedy Nearest Neighbor Heuristic.
+![Final Optimized Routes]<img width="1238" height="593" alt="Screenshot 2026-05-27 201850" src="https://github.com/user-attachments/assets/242a218f-e66e-45dd-abe1-d95f70a13075" />
+
+
 This project implements an end-to-end **Data Science** and **Operations Research (OR)** solution to optimize last-mile logistics distribution in São Paulo, Brazil. Using real-world transactional data from the **Olist Brazilian E-Commerce Dataset**, it solves two critical operational challenges faced by logistics companies:
 
 - **Fleet Zone Allocation** — How should delivery zones be divided across available trucks?
@@ -149,6 +154,9 @@ Delivery Points        : 50 stops fully covered
 Fleet Utilization      : 100% (no unassigned stops)
 ```
 
+**Figure 2:** K-Means spatial clustering (k=5) ensuring balanced workload and non-overlapping delivery zones for the fleet.
+![Zone Clustering]<img width="1206" height="616" alt="Screenshot 2026-05-27 201835" src="https://github.com/user-attachments/assets/a88ea863-76fa-45bb-b53f-20e6d8dea509" />
+
 ---
 
 ## 📁 Output Files
@@ -233,4 +241,4 @@ Based on the optimization results, the following operational improvements are re
 
 ---
 
-*Portfolio Project · Supply Chain Data Analytics · [Your Name] · [Year]*
+
