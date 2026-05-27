@@ -189,24 +189,7 @@ kaggle datasets download -d olistbr/brazilian-ecommerce -p data/ --unzip
 > 
 > Direct link: [kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-### Run the Project
 
-```bash
-# Clone this repository
-git clone https://github.com/[your-username]/supply-chain-portfolio.git
-
-# Navigate to project folder
-cd supply-chain-portfolio/P03-logistics-optimization
-
-# Run the main script
-python scripts/route_optimizer.py
-
-# Open output maps in browser
-start sao_paulo_final_routes.html      # Windows
-open sao_paulo_final_routes.html       # Mac/Linux
-```
-
----
 
 ## 💡 Business Recommendations
 
